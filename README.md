@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @itsofirk
-- 👀 I’m interested in sharing my experiences and progress on my programming career.
-- 🌱 I’m currently learning Web Devlopment to expand my arsenal, but mainly as a hobby.
-- 📕 My strongest language is Python, but I will face any challenge.
-- 🐱‍👤 My biggest passion is Big Data. I feel comfortable designing and solving data-related issues, yet very enthusiastic learning new stuff.
-- 📫 How to reach me? you can find me on linkedin! Ofir Kenan
+- 👀 I'm passionate about sharing my programming journey and experiences.
+- 🎓 I'm halfway through my B.Sc. in Computer Science from the Open University of Israel.
+- 💼 With over 7 years of professional experience in the field, I bring a wealth of industry knowledge to my work.
+- 📖 Python is my strongest language, and I'm always ready to tackle new challenges.
+- 🐱‍💻 Big Data is my greatest passion. I enjoy designing solutions and solving data-related problems, and I'm constantly excited to learn new things.
+- 📬 Want to get in touch? Connect with me on LinkedIn! Find me on Ofir Kenan.
 
 <!---
 itsofirk/itsofirk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
